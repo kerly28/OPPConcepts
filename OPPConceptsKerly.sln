@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPPConceptsKerly", "OPPConceptsKerly\OPPConceptsKerly.csproj", "{43ADA925-B610-4A97-9CB3-C45C3118768A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43ADA925-B610-4A97-9CB3-C45C3118768A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ADA925-B610-4A97-9CB3-C45C3118768A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ADA925-B610-4A97-9CB3-C45C3118768A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ADA925-B610-4A97-9CB3-C45C3118768A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9165068C-9DFA-4911-8AC9-356A6CF884FC}
+	EndGlobalSection
+EndGlobal
