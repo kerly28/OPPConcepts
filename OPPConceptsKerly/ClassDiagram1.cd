@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Herència">
+    <Position X="5.657" Y="2.635" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Herència">
+    <Position X="5.458" Y="5.302" Height="0.291" Width="0.7" />
+  </Comment>
+  <Comment CommentText="Composició">
+    <Position X="7.471" Y="6.261" Height="0.291" Width="0.891" />
+  </Comment>
+  <Comment CommentText="◼️---------&gt;">
+    <Position X="7.514" Y="6.906" Height="0.291" Width="0.865" />
+  </Comment>
+  <Class Name="OPPConcepts.SetUp">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SetUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Peripherals">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Peripherals.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OPPConcepts.PriceHelper" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValidPrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyBoardGaming">
+    <Position X="3.75" Y="5.75" Width="3.25" />
+    <InheritanceLine Type="Peripherals" ManuallyRouted="true">
+      <Path>
+        <Point X="5.25" Y="5.127" />
+        <Point X="5.25" Y="5.75" />
+        <Point X="5.375" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAABAAEIAAAAAAAAAAgAABAAAAQACAAAAAA=</HashCode>
+      <FileName>KeyboardGaming.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OPPConcepts.ColourSwitches" Collapsed="true">
+    <Position X="8.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAA=</HashCode>
+      <FileName>ColourSwitches.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OPPConcepts.IPeripherals" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPeripherals.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
